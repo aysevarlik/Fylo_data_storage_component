@@ -26,14 +26,10 @@ body {
     background-color: aliceblue;
     position: absolute;
     z-index: 1;
-    visibility: hidden;
     margin-left: 18%;
     margin-bottom: 13%;
     border-radius: 1rem;
     text-align: center;
-}
-.box_2:hover .hover_box{
-    visibility: visible;    
 }
 .container{
     width: 65rem;
